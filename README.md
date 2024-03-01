@@ -20,7 +20,7 @@ Features:
 - Light / Dark mode
 - Websocket fallback: Polling with alerts
 - ORM using Prisma
-- MySQL database using Planetscale
+- MySQL database using phpmyadmin
 - Authentication with Clerk
 
 ### Prerequisites
