@@ -1,7 +1,7 @@
 # Fullstack Discord Clone: Next.js 13, TypeScript, Socket.io, WebRTC, Prisma, Tailwind, MySQL
 
 
-[Demo]()
+[Demo](https://www.linkedin.com/feed/update/urn:li:activity:7169309674293477377/)
 
 Features:
 
